@@ -96,6 +96,8 @@ For businesses, it aims to **reduce refund rates** and **stabilize revenue durin
 **What it does:**  
 
 <img width="1046" height="381" alt="image" src="https://github.com/user-attachments/assets/20be6afd-e8b5-4d6b-8993-156a382081a5" />
+<img width="1046" height="381" alt="image" src="https://github.com/user-attachments/assets/c801e4b1-5566-494d-a7ef-2b1c50c2e298" />
+
 
 - Based on **Commitment Bias** and **Self-Perception Theory**  
 - Awarding badges like **“Mindful Buyer”** creates an identity  
