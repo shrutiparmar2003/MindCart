@@ -34,7 +34,7 @@ Could **AI-driven micro-interventions based on behavioral science** help custome
 
 ---
 
-## 💡 What is Mindful Shopping AI?  
+## 💡 What is MindCart?  
 A shopping assistant powered by **Gemini 1.5 Flash** that applies **behavioral psychology** from the book *Thinking, Fast and Slow* to help users:  
 ✔ Reflect before purchasing  
 ✔ Reduce impulse buys  
