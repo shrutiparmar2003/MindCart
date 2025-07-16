@@ -107,7 +107,7 @@ Principles used:
 
 ---
 
-## 🖼️ Screenshots & Demo  
+## Demo  
 (Add 2–3 screenshots or GIF of the app here)  
 👉 **[Watch Demo Video](your-demo-link)**  
 
