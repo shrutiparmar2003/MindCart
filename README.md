@@ -52,6 +52,9 @@ For businesses, it aims to **reduce refund rates** and **stabilize revenue durin
 
 ### ✅ 1. **10-Second Reflection Pause Before Checkout**  
 **Why it exists:**  
+
+<img width="1130" height="445" alt="image" src="https://github.com/user-attachments/assets/0419413b-8713-4af3-9c88-7a6b763067e1" />
+
 - Based on **Daniel Kahneman’s System 1 vs System 2 thinking**:  
   - System 1 (Fast Thinking): Quick, emotional, impulsive  
   - System 2 (Slow Thinking): Deliberate, rational  
@@ -62,6 +65,9 @@ For businesses, it aims to **reduce refund rates** and **stabilize revenue durin
 
 ### ✅ 2. **Item Tagging: Essential | Optional | Impulse**  
 **Why it exists:**  
+
+<img width="730" height="462" alt="image" src="https://github.com/user-attachments/assets/4d9c791c-667b-433b-a5a4-cb74c0f99d73" />
+
 - Uses **Choice Architecture** — structuring choices so people make better decisions without forcing them  
 - AI classifies items as:  
   - **Essential:** Daily-use or planned  
