@@ -50,8 +50,23 @@ For businesses, it aims to **reduce refund rates** and **stabilize revenue durin
 
 ## 🎯 Key Features — Backed by Behavioral Science  
 
-### ✅ 1. **10-Second Reflection Pause Before Checkout**  
-**Why it exists:**  
+### ✅ 1. **Cart Analysis & Spending Breakdown**  
+**What It Does:**  
+<img width="1063" height="538" alt="image" src="https://github.com/user-attachments/assets/ce561126-c724-4630-81ca-deda6fba230a" />
+
+
+- AI scans the user’s cart and provides:  
+  - Total spend breakdown (Essentials vs Impulse items)  
+  - Smart suggestions for budget alignment  
+- Displays **actionable insights** like:  
+  > *“You’re about to spend ₹8,500. Essentials: ₹6,000 | Impulse: ₹2,500.”*  
+
+**Psychological Principle:**  
+- **Awareness Effect** — Making spending visible improves self-control  
+- **Anchoring Bias** — Highlighting impulse cost in context of essentials makes overspending feel larger
+- 
+### ✅ 2. **10-Second Reflection Pause Before Checkout**  
+**What it does:**  
 
 <img width="1130" height="445" alt="image" src="https://github.com/user-attachments/assets/0419413b-8713-4af3-9c88-7a6b763067e1" />
 
@@ -63,8 +78,8 @@ For businesses, it aims to **reduce refund rates** and **stabilize revenue durin
 
 ---
 
-### ✅ 2. **Item Tagging: Essential | Optional | Impulse**  
-**Why it exists:**  
+### ✅ 3. **Item Tagging: Essential | Optional | Impulse**  
+**What it does:**  
 
 <img width="730" height="462" alt="image" src="https://github.com/user-attachments/assets/4d9c791c-667b-433b-a5a4-cb74c0f99d73" />
 
@@ -77,8 +92,8 @@ For businesses, it aims to **reduce refund rates** and **stabilize revenue durin
 
 ---
 
-### ✅ 3. **Identity Badges for Mindful Shoppers**  
-**Why it exists:**  
+### ✅ 4. **Identity Badges for Mindful Shoppers**  
+**What it does:**  
 
 <img width="1046" height="381" alt="image" src="https://github.com/user-attachments/assets/20be6afd-e8b5-4d6b-8993-156a382081a5" />
 
@@ -88,8 +103,8 @@ For businesses, it aims to **reduce refund rates** and **stabilize revenue durin
 
 ---
 
-### ✅ 4. **Savings Awareness Prompts**  
-**Why it exists:**  
+### ✅ 5. **Savings Awareness Prompts**  
+**What it does:**  
 - Leverages **Loss Aversion**:  
   > People fear losing ₹500 more than they value gaining ₹500  
 - Instead of saying *“Your cart is ₹10,000,”* we show:  
@@ -98,8 +113,8 @@ For businesses, it aims to **reduce refund rates** and **stabilize revenue durin
 
 ---
 
-### ✅ 5. **“Treat Yourself Later” Suggestions**  
-**Why it exists:**  
+### ✅ 6. **“Treat Yourself Later” Suggestions**  
+**What it does:**  
 - Based on **Delayed Gratification** and **Goal Substitution**  
 - Instead of *“Don’t buy,”* we suggest:  
   > *“Add to Treat List for later and reward yourself after reaching goals.”*  
@@ -120,7 +135,6 @@ Principles used:
 ---
 
 ## Demo  
-(Add 2–3 screenshots or GIF of the app here)  
 👉 **[Watch Demo Video](your-demo-link)**  
 
 ---
