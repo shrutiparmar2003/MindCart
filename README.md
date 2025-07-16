@@ -79,6 +79,9 @@ For businesses, it aims to **reduce refund rates** and **stabilize revenue durin
 
 ### ✅ 3. **Identity Badges for Mindful Shoppers**  
 **Why it exists:**  
+
+<img width="1046" height="381" alt="image" src="https://github.com/user-attachments/assets/20be6afd-e8b5-4d6b-8993-156a382081a5" />
+
 - Based on **Commitment Bias** and **Self-Perception Theory**  
 - Awarding badges like **“Mindful Buyer”** creates an identity  
 - Users act consistently with self-image → reinforces responsible habits  
