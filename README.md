@@ -64,7 +64,7 @@ For businesses, it aims to **reduce refund rates** and **stabilize revenue durin
 **Psychological Principle:**  
 - **Awareness Effect** — Making spending visible improves self-control  
 - **Anchoring Bias** — Highlighting impulse cost in context of essentials makes overspending feel larger
-- 
+
 ### ✅ 2. **10-Second Reflection Pause Before Checkout**  
 **What it does:**  
 
