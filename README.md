@@ -8,7 +8,7 @@
 ---
 
 ## ✅ Why This Project Exists  
-Consumer confidence is at its **lowest level in 12 years**. Global retailers have seen **billions wiped off their market valuations in a single day** due to shifting spending habits and economic uncertainty.  
+Consumer confidence is at its **lowest level in 12 years**. Global retailers have seen **billions wiped off their market valuations in a single day** due to shifting spending habits and economic uncertainty. 
 
 ### What does this mean for businesses and consumers?  
 - Customers are second-guessing purchases → **increasing refund rates**  
